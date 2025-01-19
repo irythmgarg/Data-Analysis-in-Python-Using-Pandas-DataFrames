@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/6f8f023c-753f-48e3-825f-931562d0c712)
 Theory on Data Analysis in Python
 Data analysis is the process of inspecting, cleaning, transforming, and modeling data to extract useful insights, draw conclusions, and support decision-making. Python is one of the most popular programming languages for data analysis due to its simplicity, flexibility, and extensive ecosystem of libraries.
 

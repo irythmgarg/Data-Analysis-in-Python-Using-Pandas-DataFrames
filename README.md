@@ -1,15 +1,16 @@
 ![Image](https://github.com/user-attachments/assets/6f8f023c-753f-48e3-825f-931562d0c712)
+
+[Coursera Link for Project](https://www.coursera.org/programs/data-science-elective-batch-of-2026-f30yc/projects/data-analysis-in-python-using-pandas-dataframes?source=search)
+
+
+
 Theory on Data Analysis in Python
 Data analysis is the process of inspecting, cleaning, transforming, and modeling data to extract useful insights, draw conclusions, and support decision-making. Python is one of the most popular programming languages for data analysis due to its simplicity, flexibility, and extensive ecosystem of libraries.
 
 Steps in Data Analysis
 Importing Data
-
 Data can be imported from multiple sources such as CSV, Excel, SQL databases, JSON, or web APIs.
 Libraries like pandas, numpy, and sqlalchemy are commonly used.
-python
-Copy
-Edit
 import pandas as pd
 data = pd.read_csv('data.csv')
 Exploratory Data Analysis (EDA)
